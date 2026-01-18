@@ -1,4 +1,4 @@
-# Task-Team-Management-System-Backend-
+🔗 Backend-only REST API | Tested with Postman | No frontend included
 
 # Task & Team Management System (Backend)
 
